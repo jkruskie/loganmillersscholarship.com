@@ -11,6 +11,32 @@
     },
     "items": [
         {
+            "id": "https://loganmillsscholarship.com/gallery.html",
+            "url": "https://loganmillsscholarship.com/gallery.html",
+            "title": "Gallery",
+            "author": {
+                "name": "Justin Kruskie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-19T12:43:19-04:00",
+            "date_modified": "2023-04-19T12:49:01-04:00"
+        },
+        {
+            "id": "https://loganmillsscholarship.com/contact.html",
+            "url": "https://loganmillsscholarship.com/contact.html",
+            "title": "Contact",
+            "summary": "Your email: Your message: Send",
+            "content_html": "<form id=\"contact-form\" action=\"https://formspree.io/f/mvondzvz\" method=\"POST\"><label for=\"email-input\">Your email:</label> <input id=\"email-input\" name=\"email\" type=\"email\"> <label for=\"message-input\">Your message:</label> <textarea id=\"message-input\" name=\"message\"></textarea> <button id=\"submit-button\" type=\"submit\">Send</button></form>",
+            "author": {
+                "name": "Justin Kruskie"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-19T12:26:17-04:00",
+            "date_modified": "2023-04-19T12:31:17-04:00"
+        },
+        {
             "id": "https://loganmillsscholarship.com/about.html",
             "url": "https://loganmillsscholarship.com/about.html",
             "title": "About",
