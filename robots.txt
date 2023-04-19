@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://jkruskie.com/loganmillersscholarship.com/sitemap.xml
+Sitemap: https://loganmillsscholarship.com/sitemap.xml
