@@ -3,7 +3,7 @@
     <title>Logan Mills Scholarship</title>
     <link href="https://loganmillsscholarship.com/feed.xml" rel="self" />
     <link href="https://loganmillsscholarship.com" />
-    <updated>2023-04-20T20:51:46-04:00</updated>
+    <updated>2023-04-23T12:11:55-04:00</updated>
     <author>
         <name>Justin Kruskie</name>
     </author>
@@ -14,10 +14,10 @@
         <author>
             <name>Justin Kruskie</name>
         </author>
-        <link href="https://loganmillsscholarship.com/logans-legacy.html"/>
-        <id>https://loganmillsscholarship.com/logans-legacy.html</id>
+        <link href="https://loganmillsscholarship.com/logans-legacy/"/>
+        <id>https://loganmillsscholarship.com/logans-legacy/</id>
 
-        <updated>2023-04-20T20:49:56-04:00</updated>
+        <updated>2023-04-23T12:11:55-04:00</updated>
             <summary>
                 <![CDATA[
                     June 3, 2022 Claire Hines was named the second awardee of the Logan Mills Memorial Scholarship! August 15, 2021 Successfully gave away almost 200 book bags to Ogemaw County kids in Logan's honor. May 21, 2021 Faith Kurtz has been named the first awardee of&hellip;
@@ -40,10 +40,10 @@
         <author>
             <name>Justin Kruskie</name>
         </author>
-        <link href="https://loganmillsscholarship.com/apply.html"/>
-        <id>https://loganmillsscholarship.com/apply.html</id>
+        <link href="https://loganmillsscholarship.com/apply/"/>
+        <id>https://loganmillsscholarship.com/apply/</id>
 
-        <updated>2023-04-20T17:24:07-04:00</updated>
+        <updated>2023-04-23T12:11:52-04:00</updated>
             <summary>
                 <![CDATA[
                     Submission of the completed applications should be made to the Ogemaw Heights High School guidance counselor.
@@ -61,10 +61,10 @@
         <author>
             <name>Justin Kruskie</name>
         </author>
-        <link href="https://loganmillsscholarship.com/gallery.html"/>
-        <id>https://loganmillsscholarship.com/gallery.html</id>
+        <link href="https://loganmillsscholarship.com/gallery/"/>
+        <id>https://loganmillsscholarship.com/gallery/</id>
 
-        <updated>2023-04-20T20:51:46-04:00</updated>
+        <updated>2023-04-23T12:11:47-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -164,10 +164,10 @@
         <author>
             <name>Justin Kruskie</name>
         </author>
-        <link href="https://loganmillsscholarship.com/contact.html"/>
-        <id>https://loganmillsscholarship.com/contact.html</id>
+        <link href="https://loganmillsscholarship.com/contact/"/>
+        <id>https://loganmillsscholarship.com/contact/</id>
 
-        <updated>2023-04-19T12:31:17-04:00</updated>
+        <updated>2023-04-23T12:11:42-04:00</updated>
             <summary>
                 <![CDATA[
                     Your email: Your message: Send
@@ -180,14 +180,39 @@
         </content>
     </entry>
     <entry>
+        <title>Home</title>
+        <author>
+            <name>Justin Kruskie</name>
+        </author>
+        <link href="https://loganmillsscholarship.com/home/"/>
+        <id>https://loganmillsscholarship.com/home/</id>
+
+        <updated>2023-04-23T12:11:35-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Logan Robert James Mills Logan loved life. His smile was contagious, bright, and beautiful. From the time Logan was a little boy he always had an iron will and had begun to learn to focus his energy on his hopes and dreams. Logan had a&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">Logan Robert James Mills</h2>
+<h6 class="align-center">Logan loved life. <br>His smile was contagious, bright, and beautiful. <br>From the time Logan was a little boy he always had an iron will and had begun to learn to focus his energy on his hopes and dreams.</h6>
+<p> </p>
+<h2 class="align-center">Our Mission</h2>
+<p>Logan had a number of goals. On the top of the list, was loading up on college classes while in high school so he could try to beat his big sister in getting his bachelor’s before she did. His goal has weighed heavily on our hearts as he will not have the opportunity to try anymore. </p>
+<p>We aim to help someone else reach their goal by awarding $2,500 yearly to a local student in Logan’s honor. This award will remain until all funds have been depleted. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>About</title>
         <author>
             <name>Justin Kruskie</name>
         </author>
-        <link href="https://loganmillsscholarship.com/about.html"/>
-        <id>https://loganmillsscholarship.com/about.html</id>
+        <link href="https://loganmillsscholarship.com/about/"/>
+        <id>https://loganmillsscholarship.com/about/</id>
 
-        <updated>2023-04-19T11:33:12-04:00</updated>
+        <updated>2023-04-23T12:11:39-04:00</updated>
             <summary>
                 <![CDATA[
                     On the morning of Friday August 28th Logan Mills was hit by a car while running on the side of the road during cross country practice. He sustained severe internal injuries and was transported by ambulance to Mid-Michigan Medical Center in West Branch, Michigan. His&hellip;
