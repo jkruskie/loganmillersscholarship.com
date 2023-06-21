@@ -3,7 +3,7 @@
     <title>Logan Mills Scholarship</title>
     <link href="https://loganmillsscholarship.com/feed.xml" rel="self" />
     <link href="https://loganmillsscholarship.com" />
-    <updated>2023-06-21T10:39:08-04:00</updated>
+    <updated>2023-06-21T10:54:42-04:00</updated>
     <author>
         <name>Justin Kruskie</name>
     </author>
@@ -43,20 +43,18 @@
         <link href="https://loganmillsscholarship.com/apply/"/>
         <id>https://loganmillsscholarship.com/apply/</id>
 
-        <updated>2023-06-21T10:39:08-04:00</updated>
+        <updated>2023-06-21T10:54:42-04:00</updated>
             <summary>
                 <![CDATA[
-                    Submission of the completed applications should be made to the Ogemaw Heights High School guidance counselor. Unable to display PDF file. Download instead.
+                    Submission of the completed applications should be made to the Ogemaw Heights High School guidance counselor. Application
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="text-xs flex items-center justify-center gap-1 invisible absolute left-0 top-2 -ml-4 -translate-x-full group-hover:visible !invisible align-left"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Submission of the completed applications should be made to the Ogemaw Heights High School guidance counselor.</span></div>
-<div> </div>
-<div><object data="https://loganmillsscholarship.com/logan_mills_memorial_scholarship_application.pdf" type="application/pdf" width="100%" height="100vh">
-      <p>Unable to display PDF file. <a href="https://loganmillsscholarship.com/logan_mills_memorial_scholarship_application.pdf">Download</a> instead.</p>
-    </object></div>
-<div> </div>
+                <div>
+<div class="text-xs flex items-center justify-center gap-1 invisible absolute left-0 top-2 -ml-4 -translate-x-full group-hover:visible !invisible align-left"><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Submission of the completed applications should be made to the Ogemaw Heights High School guidance counselor.</span></div>
+<div class="text-xs flex items-center justify-center gap-1 invisible absolute left-0 top-2 -ml-4 -translate-x-full group-hover:visible !invisible align-left"><a href="https://loganmillsscholarship.com/logan_mills_memorial_scholarship_application.pdf" target="_blank" rel="noopener noreferrer">Application</a><figure class="post__image"><img loading="lazy"  src="https://loganmillsscholarship.com/logan_mills_memorial_scholarship_ai" alt="" width="100%" height="100%" data-is-external-image="true"></figure></div>
+</div>
             ]]>
         </content>
     </entry>
